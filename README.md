@@ -19,3 +19,4 @@
 # Other Ideas
 
 - Comission Adam J. K. for favicon and logo? Maybe the star? The sun?
+- PROJECT: AWS DeepRacer

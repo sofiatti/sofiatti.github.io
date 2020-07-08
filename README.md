@@ -11,10 +11,15 @@
 - ML blogs, news sources, and paper
 - ML books
 - Atomic Habits for work
-- Values and guiding principles at work
-- Virtualenv
-- ML platform architecture: abstraction | technology (mapreduce, pyspark, hadoop...)
-- Testing ML models
+- Values and guiding principles at work (tags: ethos)
+- Strategies for learning (tags: ethos)
+- Virtualenv (tags: CS)
+- Debugging tools (tags: CS)
+- Writing a design doc (tags: CS)
+- ML platform architecture: abstraction | technology (mapreduce, pyspark, hadoop...) (tags: ML, platform)
+- Testing ML models (tags: ML, testing)
+- Variance (tags: stats)
+- Correlation, pearsons (tags: stats)
 
 # Other Ideas
 

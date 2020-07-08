@@ -8,9 +8,9 @@ permalink: /about/
 
 - Getting better every day: Feynman's learning method
 
-- Finding my bliss and writing about what resonates with me 
+- Cultivating a beginner's mindset: A love of learning and staying curious
 
-- Cultivating a beginner's mindset: Love of learning and staying curious
+- Staying attuned to what resonates with me
 
 
 # Talking to me

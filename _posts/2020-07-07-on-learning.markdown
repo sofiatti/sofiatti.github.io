@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "On Learning"
-date:   2020-07-06 14:43:53 -0700
-categories: jekyll update
+date:   2020-07-07 16:45:53 -0700
+categories: ethos
 ---
 
 Learning has been a core value of mine for as far as I can remember. It's been a driver for many of my major life decisions, and it's brought me much joy over the years. A bright shining sun in the sky that is my life. 

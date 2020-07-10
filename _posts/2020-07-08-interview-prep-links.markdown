@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interview Prep Links"
-date:   2020-07-08 17:20:53 -0700
+date:   2020-07-08 14:20:53 -0700
 categories: interview
 ---
 

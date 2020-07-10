@@ -15,7 +15,7 @@ Today, my learning philosophy can be summarized with three core ideas:
 
 - Cultivate a beginner's mind. Approach learning with curiosity and wonder. Savor the delight of figuring something out. Explore for exploring's sake.
 
-- "Wherever you are is fine." There is no "I should be here" or "I should know x." No matter where you find yourself in your path towards understanding or mastering a subject, wherever you are is absolutely fine. 
+- "Wherever you are is fine." There is no "I should be here" or "I should know x." No matter where you find yourself in your path towards understanding or mastering a subject, wherever you are is _absolutely_ fine. 
 
 - Learning is an active process of "trial and error, discovery, free inquiry." It should nourish the inventive soul. 
 

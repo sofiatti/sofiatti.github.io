@@ -5,11 +5,22 @@ date:   2020-07-08 14:20:53 -0700
 categories: interview
 ---
 
-A few useful links 
+A few useful links for a Machine Learning Interview Prep
 
-# Machine Learning
+# Machine Learning/ Data Science
+
+- [Super Cheatsheet by Amidi & Amidi](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks)
+- [Data Science Cheatsheet by Maverick Lin](https://github.com/ml874/Data-Science-Cheatsheet)
+- Machine Learning Mastery
+	- [A Tour of ML Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+	- [Data Driven Approach to ML](https://machinelearningmastery.com/a-data-driven-approach-to-machine-learning/)	
+	- [The Seductive Trap of Black Box ML](https://machinelearningmastery.com/the-seductive-trap-of-black-box-machine-learning/)
+	- [ROC and Precision-Recall Curves for Imbalanced Classification](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-imbalanced-classification/)
+- Hypothesis Testing - [Udemy's AB Testing Course](https://www.udacity.com/course/ab-testing--ud257)
 
 # Computer Science
+
+- [LeetCode](https://leetcode.com/)
 
 # Statistics
 

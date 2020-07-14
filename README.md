@@ -3,6 +3,7 @@
 - [ ] Add favicon
 - [ ] Add logo/ info/ link to Recurse Center at the footer
 - [ ] Get RSS feed into zulip's blogging channel 
+- [ ] Add copyright info? Logo? 
 
 # Blog Post Ideas
 
@@ -21,7 +22,12 @@
 - Variance (tags: stats)
 - Correlation, pearsons (tags: stats)
 
+# Project Ideas
+
+- Build your own Neural Network
+- AWS DeepRacer
+
 # Other Ideas
 
 - Comission Adam J. K. for favicon and logo? Maybe the star? The sun?
-- PROJECT: AWS DeepRacer
+
